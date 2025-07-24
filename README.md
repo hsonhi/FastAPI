@@ -1,4 +1,4 @@
-## A Python/FastAPI project sample with Redis on a Docker container
+## A FastAPI project sample with Redis on a Docker container
 This sample contains the completed program from the tutorial: [FastAPI in Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-fastapi). Immediate steps are not included. 
 
 ### Run the app locally in VS Code
